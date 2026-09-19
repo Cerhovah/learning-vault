@@ -1,4 +1,4 @@
-# E1 · 터미널·Docker·Git
+# B2-2 · Python과 Git 협업
 
 ## 자료
 
@@ -6,6 +6,7 @@
 
 ## 다루는 내용
 
+- Python 유틸 함수 구현과 Git 협업 흐름
 - Git commit·branch·HEAD·원격 추적 브랜치
 - GitHub Flow와 Issue → Branch → PR → Review → Merge
 - merge conflict, amend, reset, revert, stash
